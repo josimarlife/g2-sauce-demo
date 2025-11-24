@@ -5,5 +5,5 @@
       "sourceMap": true,
       "types": ["cypress", "node"]
     },
-    "include": ["**/*.ts"]
+    "include": ["**/*.ts", "e2e/feature", "e2e/page", "e2e/step/login.steps"]
   }
